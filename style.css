@@ -1,0 +1,79 @@
+body{
+    color: #481c12;
+
+}
+
+
+.navbar{
+    color: #481c12;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.line1 , .line2 , .line3 {
+    width: 23px;
+    height: 3px;
+    margin: 5px;
+}
+.menu-item:hover {
+    color: rgb(255, 255, 255);
+
+}
+
+
+
+.sticker{
+    position: relative;
+    z-index: 2;
+width: 150px;
+margin-right: 22rem;
+margin-top: -7rem;
+}
+
+.text-block1{
+   
+    z-index: 2;
+    margin-left: 15px;
+  margin-top: -320px;
+    font-size: medium;
+    color: white;
+    font-family: 'Dela Gothic One', cursive;
+    line-height: 1px;
+    position:absolute;
+}
+.text-block2{  
+     margin-top: -9rem;
+     font-size: small;
+   margin-left: 10px;
+    z-index: 2;
+    color: white;
+    font-family: 'Dela Gothic One', cursive;
+    line-height:1px;
+    position:absolute;
+}
+.text-block3{
+   margin-left: 10px;
+    z-index: 2;
+    margin-top: -140px;
+    font-size: small;
+    color: white;
+    font-family: 'Dela Gothic One', cursive;
+    line-height: 1px;
+    position:absolute;
+}
+.container2{
+    color: #481c12;
+}
+.container-box{
+    position: relative;
+    margin : 2rem 0;
+    box-shadow: 0 0 4px 2px #c8c8c8;
+}
+.carousel-indicators .active { 
+    background-color: white;
+}
+.carousel-indicators button {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    border: 2px solid rgb(239, 216, 66);
+    background: rgb(239, 216, 66);
+}
